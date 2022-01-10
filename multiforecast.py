@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 17 23:26:06 2021
 
-@author: vasu
-"""
 import pandas as pd
 from sklearn.model_selection import KFold
 from sklearn.neural_network import MLPRegressor
